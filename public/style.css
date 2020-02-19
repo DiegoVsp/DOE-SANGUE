@@ -147,8 +147,9 @@ main .doadores {
 
 }
 
-.doadores p {
+.doador p {
     margin-top: 24px;
+    margin-bottom: 64px;
     font-size: 14px;
 }
 footer {
